@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/shubhamkumar96/node-ls-version/issues"
   },
-  "homepage": "https://github.com/shubhamkumar96/node-ls-version#readme"
+  "homepage": "https://github.com/shubhamkumar96/node-ls-version#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
 }
