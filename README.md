@@ -21,3 +21,10 @@
         npm link
     
 #### Now you can run "nls" command in your terminal from any directory to get the list of contents inside of that directory.
+
+### Below are some screenshots of executing this command in Terminal:
+#### "Executing 'nls' command without passing any argument, displays the list of contents in current directory"
+![Demo Images](/screenshots/demo1.PNG?raw=true)
+
+#### "Executing 'nls' command and passing relative path as argument, displays the list of contents at that path"
+![Demo Images](/screenshots/demo2.PNG?raw=true)
