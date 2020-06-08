@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Added above line to allow 'index.js' file to be treated as an executable.
 
 const fs = require("fs");
 const chalk = require("chalk");
