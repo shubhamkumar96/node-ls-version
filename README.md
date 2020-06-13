@@ -1,5 +1,5 @@
 # node-ls-version
-###  A node version of "ls" command
+###  A Command Line Tool similar to "ls" command.
 
 ## Built With
   *   JavaScript, Node.js
