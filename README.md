@@ -1,5 +1,5 @@
 # node-ls-version
-###  A Command Line Tool similar to "ls" command.
+###  A Command Line Tool similar to "ls" command, which displays the contents of current or passed directory.
 
 ## Built With
   *   JavaScript, Node.js
